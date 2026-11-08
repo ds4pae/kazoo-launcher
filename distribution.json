@@ -6,7 +6,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.08-6",
+      "version": "2026.11.08-7",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -243,13 +243,13 @@
           }
         },
         {
-          "id": "kazoo.mods:kazoo-core-0.1.0:adafbe8f7e@jar",
+          "id": "kazoo.mods:kazoo-core-0.1.0:b4a5545599@jar",
           "name": "kazoo-core-0.1.0",
           "type": "FabricMod",
           "artifact": {
-            "size": 18411685,
-            "MD5": "c98d4ae0bb7528144f3b6a150c891059",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-6/kazoo-core-0.1.0.jar"
+            "size": 18448885,
+            "MD5": "663a6e42d55f3ae02a358b762f23e543",
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-7/kazoo-core-0.1.0.jar"
           }
         },
         {
@@ -485,7 +485,7 @@
               "artifact": {
                 "size": 65,
                 "MD5": "b1972a228a1f15a9c5e3c172996d1ad2",
-                "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-6/iris.properties",
+                "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-7/iris.properties",
                 "path": "config/iris.properties"
               }
             }
