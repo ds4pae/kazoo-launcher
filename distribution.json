@@ -6,7 +6,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.08-5",
+      "version": "2026.11.08-6",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -249,7 +249,7 @@
           "artifact": {
             "size": 18411685,
             "MD5": "c98d4ae0bb7528144f3b6a150c891059",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-5/kazoo-core-0.1.0.jar"
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-6/kazoo-core-0.1.0.jar"
           }
         },
         {
@@ -485,7 +485,7 @@
               "artifact": {
                 "size": 65,
                 "MD5": "b1972a228a1f15a9c5e3c172996d1ad2",
-                "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-5/iris.properties",
+                "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.08-6/iris.properties",
                 "path": "config/iris.properties"
               }
             }
@@ -504,22 +504,6 @@
             "size": 975846,
             "MD5": "52ed39a3015ef3e6b02915d87a8aabae",
             "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/6lgOkclV/modmenu-11.0.5.jar"
-          },
-          "subModules": []
-        },
-        {
-          "id": "kazoo.mods:Axiom-6.1.5-for-MC1.21.1:450919d97a@jar",
-          "name": "건축 도구 (Axiom)",
-          "description": "건축하는 사람만. 46MB",
-          "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": false
-          },
-          "artifact": {
-            "size": 47182465,
-            "MD5": "530a1d3ee1399caccd8343634b7459d6",
-            "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wgJEj8EH/Axiom-6.1.5-for-MC1.21.1.jar"
           },
           "subModules": []
         }
