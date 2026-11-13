@@ -7,7 +7,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.11-2029",
+      "version": "2026.11.14-0744",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -114,26 +114,6 @@
           ]
         },
         {
-          "id": "kazoo.mods:archers-fabric-3.1.3_1.21.1:1f70fddb9c@jar",
-          "name": "archers-fabric-3.1.3+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 922649,
-            "MD5": "712e151cfd7f8d344cad2b71025e7e74",
-            "url": "https://cdn.modrinth.com/data/QgooUXAJ/versions/PADcptb0/archers-fabric-3.1.3%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:armor_model_api-fabric-1.1.0_1.21.1:a16daaa6a1@jar",
-          "name": "armor_model_api-fabric-1.1.0+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 92823,
-            "MD5": "20cc6cd4443e176d0ce9b59d82d5cd3a",
-            "url": "https://cdn.modrinth.com/data/onz2NN2n/versions/eqjiejBH/armor_model_api-fabric-1.1.0%2B1.21.1.jar"
-          }
-        },
-        {
           "id": "kazoo.mods:armourersworkshop-fabric-1.21.1-3.2.0-beta:af18b383e6@jar",
           "name": "armourersworkshop-fabric-1.21.1-3.2.0-beta",
           "type": "FabricMod",
@@ -214,16 +194,6 @@
           }
         },
         {
-          "id": "kazoo.mods:fabric-language-kotlin-1.14.2_kotlin.2.4.21:f1d4ab6ecd@jar",
-          "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8142878,
-            "MD5": "08b201c7d0e80ba7a3d77cca0b2d3d3f",
-            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar"
-          }
-        },
-        {
           "id": "kazoo.mods:geckolib-fabric-1.21.1-4.9.3:b3a6aff6ff@jar",
           "name": "geckolib-fabric-1.21.1-4.9.3",
           "type": "FabricMod",
@@ -244,23 +214,13 @@
           }
         },
         {
-          "id": "kazoo.mods:jewelry-fabric-2.5.1_1.21.1:782c9e8e39@jar",
-          "name": "jewelry-fabric-2.5.1+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 646046,
-            "MD5": "3d04075a7de00d95bfc2324386731347",
-            "url": "https://cdn.modrinth.com/data/sNJAIjUm/versions/Ky8x38tl/jewelry-fabric-2.5.1%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:kazoo-core-0.1.0:c366ecc593@jar",
+          "id": "kazoo.mods:kazoo-core-0.1.0:c074a36054@jar",
           "name": "kazoo-core-0.1.0",
           "type": "FabricMod",
           "artifact": {
-            "size": 23662924,
-            "MD5": "d4e0530c75b5a7c59e6d50d27073c627",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.11-2029/kazooworld__kazoo-core-0.1.0.jar"
+            "size": 23842229,
+            "MD5": "b0798af2ed8d43855ee2229bcc6497a8",
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.14-0744/kazooworld__kazoo-core-0.1.0.jar"
           }
         },
         {
@@ -324,16 +284,6 @@
           }
         },
         {
-          "id": "kazoo.mods:paladins-fabric-3.1.3_1.21.1:98893b3b9c@jar",
-          "name": "paladins-fabric-3.1.3+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3141537,
-            "MD5": "31c0cf6aaad9081f38b450a462a6c07e",
-            "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/oxt4RIOL/paladins-fabric-3.1.3%2B1.21.1.jar"
-          }
-        },
-        {
           "id": "kazoo.mods:player-animation-lib-fabric-2.0.4_1.21.1:2985c20876@jar",
           "name": "player-animation-lib-fabric-2.0.4+1.21.1",
           "type": "FabricMod",
@@ -341,16 +291,6 @@
             "size": 204541,
             "MD5": "93e684b0c741294dc2ac7e6b1f958dd2",
             "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:ranged_weapon_api-fabric-3.0.0_1.21.1:bd1876929f@jar",
-          "name": "ranged_weapon_api-fabric-3.0.0+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 159428,
-            "MD5": "bd951dd816a35d5408b68f8f67ddad52",
-            "url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/D23XVjUe/ranged_weapon_api-fabric-3.0.0%2B1.21.1.jar"
           }
         },
         {
@@ -364,46 +304,6 @@
           }
         },
         {
-          "id": "kazoo.mods:rogues-fabric-3.1.3_1.21.1:ea639cd43d@jar",
-          "name": "rogues-fabric-3.1.3+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1775816,
-            "MD5": "161bfdbc7b8ae6e59d9c70f7f854efc7",
-            "url": "https://cdn.modrinth.com/data/3MKqoGuP/versions/u72fV2Ep/rogues-fabric-3.1.3%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:runes-fabric-1.3.2_1.21.1:71435c2d91@jar",
-          "name": "runes-fabric-1.3.2+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 326613,
-            "MD5": "8eb4c93ba5eaf332fadfe07ccd6a4cf8",
-            "url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/MUfjgRc2/runes-fabric-1.3.2%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:spell_engine-fabric-1.10.9_1.21.1:b785721e86@jar",
-          "name": "spell_engine-fabric-1.10.9+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4707862,
-            "MD5": "02297f6351e4191b7f2f2cca2e3580f1",
-            "url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/PITgFMUu/spell_engine-fabric-1.10.9%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:spell_power-fabric-1.6.0_1.21.1:8d8b356d56@jar",
-          "name": "spell_power-fabric-1.6.0+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 226992,
-            "MD5": "bac904d97e8bd18bc6f39e7a1bc14197",
-            "url": "https://cdn.modrinth.com/data/8ooWzSQP/versions/IyVyrKj8/spell_power-fabric-1.6.0%2B1.21.1.jar"
-          }
-        },
-        {
           "id": "kazoo.mods:stardew_fishing-fabric-1.21.1-3.7-fix-fabric:a4b83bca79@jar",
           "name": "stardew_fishing-fabric-1.21.1-3.7-fix-fabric",
           "type": "FabricMod",
@@ -411,16 +311,6 @@
             "size": 662438,
             "MD5": "1ad813c8a107e8c629cbaa65c5e510a0",
             "url": "https://cdn.modrinth.com/data/9wJhd9x6/versions/nE5aPDOW/stardew_fishing-fabric-1.21.1-3.7-fix-fabric.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:structure_pool_api-fabric-1.2.1_1.21.1:ca2fb52f5f@jar",
-          "name": "structure_pool_api-fabric-1.2.1+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 140933,
-            "MD5": "4da9952c0d35638a45915a52a23b0ffd",
-            "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/Y6aBoKEl/structure_pool_api-fabric-1.2.1%2B1.21.1.jar"
           }
         },
         {
@@ -441,99 +331,6 @@
             "size": 1166671,
             "MD5": "be776fc196546fbeb08d3e6e01c83ea6",
             "url": "https://cdn.modrinth.com/data/vRFcG5n6/versions/9Sfnm3nY/tooltipoverhaul-fabric-1.21.1-2.0.7.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:trinkets-3.10.0:f54756f938@jar",
-          "name": "trinkets-3.10.0",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 272944,
-            "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1",
-            "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:wizards-fabric-3.1.3_1.21.1:6336f1cd6a@jar",
-          "name": "wizards-fabric-3.1.3+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4542815,
-            "MD5": "fe7bf20aca5b19e53ce725274edac802",
-            "url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/YXyLQF2i/wizards-fabric-3.1.3%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:yet_another_config_lib_v3-3.8.2_1.21.1-fabric:e075503382@jar",
-          "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1131265,
-            "MD5": "aadf11f5a793296be7c195e1ca388492",
-            "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:zoomify-2.15.2_1.21.1:9ec9c47e1d@jar",
-          "name": "zoomify-2.15.2+1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 872937,
-            "MD5": "e3beea86fba08bffe61ccad28df6c676",
-            "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar"
-          }
-        },
-        {
-          "id": "kazoo.mods:iris-fabric-1.8.14-beta.1_mc1.21.1:6776c03408@jar",
-          "name": "iris-fabric-1.8.14-beta.1+mc1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2791343,
-            "MD5": "4399f0c3edfe2af7f61db3725fe5c751",
-            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
-          },
-          "required": {
-            "value": false,
-            "def": true
-          }
-        },
-        {
-          "id": "kazoo.mods:modmenu-11.0.5:2321d890a2@jar",
-          "name": "modmenu-11.0.5",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 975846,
-            "MD5": "52ed39a3015ef3e6b02915d87a8aabae",
-            "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/6lgOkclV/modmenu-11.0.5.jar"
-          },
-          "required": {
-            "value": false,
-            "def": true
-          }
-        },
-        {
-          "id": "kazoo.mods:sodium-fabric-0.8.13_mc1.21.1:003c114c85@jar",
-          "name": "sodium-fabric-0.8.13+mc1.21.1",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1574609,
-            "MD5": "5d9c08eefe9ea23cd5201e93332e3450",
-            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
-          },
-          "required": {
-            "value": false,
-            "def": true
-          }
-        },
-        {
-          "id": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
-          "name": "ComplementaryReimagined_r5.9.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 553397,
-            "MD5": "54cd249cd1e95a4e19f0ea2cb4369e71",
-            "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip",
-            "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
           }
         }
       ]
