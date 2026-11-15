@@ -7,7 +7,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.16-0549",
+      "version": "2026.11.16-0618",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -210,7 +210,7 @@
           "artifact": {
             "size": 27169296,
             "MD5": "08c627b5cd4742abc7c720c3b57e1f89",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.16-0549/kazooworld__kazoo-core-0.1.0.jar"
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.16-0618/kazooworld__kazoo-core-0.1.0.jar"
           }
         },
         {
@@ -321,6 +321,59 @@
             "size": 1166671,
             "MD5": "be776fc196546fbeb08d3e6e01c83ea6",
             "url": "https://cdn.modrinth.com/data/vRFcG5n6/versions/9Sfnm3nY/tooltipoverhaul-fabric-1.21.1-2.0.7.jar"
+          }
+        },
+        {
+          "id": "kazoo.mods:iris-fabric-1.8.14-beta.1_mc1.21.1:6776c03408@jar",
+          "name": "iris-fabric-1.8.14-beta.1+mc1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2791343,
+            "MD5": "4399f0c3edfe2af7f61db3725fe5c751",
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
+          },
+          "required": {
+            "value": false,
+            "def": true
+          }
+        },
+        {
+          "id": "kazoo.mods:modmenu-11.0.5:2321d890a2@jar",
+          "name": "modmenu-11.0.5",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 975846,
+            "MD5": "52ed39a3015ef3e6b02915d87a8aabae",
+            "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/6lgOkclV/modmenu-11.0.5.jar"
+          },
+          "required": {
+            "value": false,
+            "def": true
+          }
+        },
+        {
+          "id": "kazoo.mods:sodium-fabric-0.8.13_mc1.21.1:003c114c85@jar",
+          "name": "sodium-fabric-0.8.13+mc1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1574609,
+            "MD5": "5d9c08eefe9ea23cd5201e93332e3450",
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+          },
+          "required": {
+            "value": false,
+            "def": true
+          }
+        },
+        {
+          "id": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+          "name": "ComplementaryReimagined_r5.9.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 553397,
+            "MD5": "54cd249cd1e95a4e19f0ea2cb4369e71",
+            "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip",
+            "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
           }
         }
       ]
