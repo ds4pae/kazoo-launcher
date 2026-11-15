@@ -7,7 +7,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.16-0618",
+      "version": "2026.11.16-0632",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -114,16 +114,6 @@
           ]
         },
         {
-          "id": "kazoo.mods:armourersworkshop-fabric-1.21.1-3.2.0-beta:af18b383e6@jar",
-          "name": "armourersworkshop-fabric-1.21.1-3.2.0-beta",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 6119627,
-            "MD5": "6755fe714fbd38e36b61b61412b0aff8",
-            "url": "https://cdn.modrinth.com/data/y4JF3gXL/versions/F2LAOLTa/armourersworkshop-fabric-1.21.1-3.2.0-beta.jar"
-          }
-        },
-        {
           "id": "kazoo.mods:athena-fabric-1.21.1-4.0.6:92534d85ca@jar",
           "name": "athena-fabric-1.21.1-4.0.6",
           "type": "FabricMod",
@@ -204,13 +194,13 @@
           }
         },
         {
-          "id": "kazoo.mods:kazoo-core-0.1.0:66f67d2811@jar",
+          "id": "kazoo.mods:kazoo-core-0.1.0:4c8d8c4594@jar",
           "name": "kazoo-core-0.1.0",
           "type": "FabricMod",
           "artifact": {
-            "size": 27169296,
-            "MD5": "08c627b5cd4742abc7c720c3b57e1f89",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.16-0618/kazooworld__kazoo-core-0.1.0.jar"
+            "size": 27173695,
+            "MD5": "7dea8ea212cf4bcda149ebd568e92101",
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.16-0632/kazooworld__kazoo-core-0.1.0.jar"
           }
         },
         {
