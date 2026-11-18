@@ -7,7 +7,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.18-2046",
+      "version": "2026.11.18-2304",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -164,6 +164,26 @@
           }
         },
         {
+          "id": "kazoo.mods:Confetti-1.3.3_1.21:1372c3bb6a@jar",
+          "name": "Confetti-1.3.3+1.21",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 72647,
+            "MD5": "63f38bf00351161a0f3151ce39f113f2",
+            "url": "https://cdn.modrinth.com/data/5s9W6kVl/versions/PUmxivnQ/Confetti-1.3.3%2B1.21.jar"
+          }
+        },
+        {
+          "id": "kazoo.mods:confetti_stuff-1.2.3_1.21:9f196292f3@jar",
+          "name": "confetti_stuff-1.2.3+1.21",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 93426,
+            "MD5": "5f517ad07c5bb279566157a7773ca2d9",
+            "url": "https://cdn.modrinth.com/data/6yBwpkox/versions/WMgOdN5R/confetti_stuff-1.2.3%2B1.21.jar"
+          }
+        },
+        {
           "id": "kazoo.mods:fabric-api-0.116.17_1.21.1:810b2b0195@jar",
           "name": "fabric-api-0.116.17+1.21.1",
           "type": "FabricMod",
@@ -171,6 +191,16 @@
             "size": 2452735,
             "MD5": "e027a4f5fcf21ee26fa48de7e7033c2b",
             "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "kazoo.mods:ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric:18bf1f21cd@jar",
+          "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 633065,
+            "MD5": "eba1a7f9d9976e983a2b9eb5e915e087",
+            "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
           }
         },
         {
@@ -184,6 +214,16 @@
           }
         },
         {
+          "id": "kazoo.mods:genshinstrument-fabric-1.21-1.21.1-5.0.1:11916ffedd@jar",
+          "name": "genshinstrument-fabric-1.21-1.21.1-5.0.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7081548,
+            "MD5": "bd1d61bd48534af664e2e3cd72c5ea8b",
+            "url": "https://cdn.modrinth.com/data/UUD6Qkij/versions/M3GIQCVI/genshinstrument-fabric-1.21-1.21.1-5.0.1.jar"
+          }
+        },
+        {
           "id": "kazoo.mods:handcrafted-fabric-1.21.1-4.0.3:a9579fecd7@jar",
           "name": "handcrafted-fabric-1.21.1-4.0.3",
           "type": "FabricMod",
@@ -194,13 +234,23 @@
           }
         },
         {
-          "id": "kazoo.mods:kazoo-core-0.1.0:eeaba90d59@jar",
+          "id": "kazoo.mods:immersive_melodies-fabric-0.8.4_1.21.1:d551e1131f@jar",
+          "name": "immersive_melodies-fabric-0.8.4+1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5583116,
+            "MD5": "cbd09c9397576167b786b29b5ff8be70",
+            "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/qLkdWqkb/immersive_melodies-fabric-0.8.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "kazoo.mods:kazoo-core-0.1.0:75c47654b4@jar",
           "name": "kazoo-core-0.1.0",
           "type": "FabricMod",
           "artifact": {
-            "size": 33569402,
-            "MD5": "ed30c2ca98225e0f4a6e26b587d47c7c",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.18-2046/kazooworld__kazoo-core-0.1.0.jar"
+            "size": 33729593,
+            "MD5": "9b5b0cd424bde2d45e2bfa6ace0f2489",
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.18-2304/kazooworld__kazoo-core-0.1.0.jar"
           }
         },
         {
