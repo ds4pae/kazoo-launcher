@@ -7,7 +7,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.20-0057",
+      "version": "2026.11.20-2306",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -184,6 +184,26 @@
           }
         },
         {
+          "id": "kazoo.mods:damagenumbers-1.4.1-fabric:e6994d6fc8@jar",
+          "name": "damagenumbers-1.4.1-fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 38160,
+            "MD5": "bcebdeebf29ad8ae503869b895204140",
+            "url": "https://cdn.modrinth.com/data/iWdXs2dQ/versions/2pfcLVuj/damagenumbers-1.4.1-fabric.jar"
+          }
+        },
+        {
+          "id": "kazoo.mods:dummmmmmy-1.21-2.1.2-fabric:84e792139e@jar",
+          "name": "dummmmmmy-1.21-2.1.2-fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 217148,
+            "MD5": "bd071295b751b108e45943861cee478e",
+            "url": "https://cdn.modrinth.com/data/Adega8YN/versions/xcE78LTW/dummmmmmy-1.21-2.1.2-fabric.jar"
+          }
+        },
+        {
           "id": "kazoo.mods:fabric-api-0.116.17_1.21.1:810b2b0195@jar",
           "name": "fabric-api-0.116.17+1.21.1",
           "type": "FabricMod",
@@ -244,13 +264,13 @@
           }
         },
         {
-          "id": "kazoo.mods:kazoo-core-0.1.0:6251e1fa46@jar",
+          "id": "kazoo.mods:kazoo-core-0.1.0:e02fe36201@jar",
           "name": "kazoo-core-0.1.0",
           "type": "FabricMod",
           "artifact": {
-            "size": 47520599,
-            "MD5": "e1805a7b5bb26fe7d8a1e13a9c01611c",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.20-0057/kazooworld__kazoo-core-0.1.0.jar"
+            "size": 49720364,
+            "MD5": "36dabc8eca7f70dedef13a284fecd4ba",
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.20-2306/kazooworld__kazoo-core-0.1.0.jar"
           }
         },
         {
