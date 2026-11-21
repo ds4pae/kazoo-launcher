@@ -7,7 +7,7 @@
       "name": "카주서버",
       "description": "카주서버 (MC 1.21.1 / Fabric 0.20.1)",
       "icon": "https://raw.githubusercontent.com/ds4pae/kazoo-launcher/main/icon.png",
-      "version": "2026.11.21-1320",
+      "version": "2026.11.21-2355",
       "address": "kazooserver.kro.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -264,13 +264,13 @@
           }
         },
         {
-          "id": "kazoo.mods:kazoo-core-0.1.0:1a3e8d6886@jar",
+          "id": "kazoo.mods:kazoo-core-0.1.0:b606cc7423@jar",
           "name": "kazoo-core-0.1.0",
           "type": "FabricMod",
           "artifact": {
-            "size": 53379544,
-            "MD5": "3855a0868f0ff2c337a7ebd28020164e",
-            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.21-1320/kazooworld__kazoo-core-0.1.0.jar"
+            "size": 55926220,
+            "MD5": "21147d1a080b0c6a34d78ad8a0dde96e",
+            "url": "https://github.com/ds4pae/kazoo-launcher/releases/download/pack-2026.11.21-2355/kazooworld__kazoo-core-0.1.0.jar"
           }
         },
         {
